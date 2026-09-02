@@ -1,0 +1,16 @@
+{"input": "Tom-ay-to, tom-aaaah-to.", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "WATCH OUT!", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "Does this cryogenic chamber make me look fat?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "You are, what, like 15?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "Let's go make out behind the gym!", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "It's OK if you don't want to go to the DMV.", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "1, 2, 3 GO!", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "1, 2, 3", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "Ending with a ? means a question.", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": ":) ?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "          ", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "\nDoes this cryogenic chamber make\n me look fat?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "         hmmmmmmm...", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "javascript"}
+{"input": "\n\r \t", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "javascript"}
